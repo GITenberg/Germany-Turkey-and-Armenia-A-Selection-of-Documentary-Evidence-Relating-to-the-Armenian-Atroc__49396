@@ -23,6 +23,8 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: 'Germany, Turkey, and Armenia
 
   A Selection of Documentary Evidence Relating to the Armenian
